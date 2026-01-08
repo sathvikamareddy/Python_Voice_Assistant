@@ -9,7 +9,7 @@ It leverages speech recognition and text-to-speech technologies to provide an in
 
 ----------
 
-#  ✨ Features
+##  ✨ Features
 
 -🎙️ Speech recognition using microphone input
 

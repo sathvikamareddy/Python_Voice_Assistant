@@ -4,7 +4,7 @@
 
 </div>
 
-SAT is a Python-based voice assistant designed to perform everyday tasks through voice commands.
+"SAT" is a Python-based voice assistant designed to perform everyday tasks through voice commands.
 It leverages speech recognition and text-to-speech technologies to provide an interactive and hands-free user experience.
 
 ---------

@@ -1,6 +1,6 @@
 <div align="center">
   
-# **🤖 – Python Voice Assistant**
+# **🤖  Python Voice Assistant**
 
 </div>
 

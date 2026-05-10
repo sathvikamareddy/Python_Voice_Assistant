@@ -11,19 +11,19 @@ It leverages speech recognition and text-to-speech technologies to provide an in
 
 ##  ✨ Features
 
--🎙️ Speech recognition using microphone input
+*🎙️ Speech recognition using microphone input
 
--🔊 Text-to-speech voice responses
+*🔊 Text-to-speech voice responses
 
--🎵 Play songs and videos on YouTube
+*🎵 Play songs and videos on YouTube
 
--📚 Fetch information from Wikipedia
+*📚 Fetch information from Wikipedia
 
--⏰ Tell current date and time
+*⏰ Tell current date and time
 
--😂 Respond with jokes and fun interactions
+*😂 Respond with jokes and fun interactions
 
--🧠 Simple and extensible command-based logic
+*🧠 Simple and extensible command-based logic
 
 -----------
 
